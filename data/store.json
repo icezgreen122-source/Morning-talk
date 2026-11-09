@@ -1,0 +1,879 @@
+{
+  "companies": [
+    {
+      "id": "in-1",
+      "name": "WCE.",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-2",
+      "name": "ทรัพย์ทวีคูณ",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-3",
+      "name": "C.T.C",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-4",
+      "name": "ขันติพิมพ์พงษ์",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-5",
+      "name": "BCC",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-6",
+      "name": "ปัญจพล",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-7",
+      "name": "SPI",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-8",
+      "name": "จรูณสิงห์",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-9",
+      "name": "เคนาย",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-10",
+      "name": "KKEN",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-11",
+      "name": "JBB",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-12",
+      "name": "LIDA",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-13",
+      "name": "ATT",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-14",
+      "name": "ดารุณี",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-15",
+      "name": "SM&SPS",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-16",
+      "name": "Fluiv power",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-17",
+      "name": "กาญจนา",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-18",
+      "name": "Flowlab",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-19",
+      "name": "ฐาปกรณ์",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-20",
+      "name": "Lucky",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-21",
+      "name": "พลูโตเทค",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-22",
+      "name": "เอ็กเซลเลนท์",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-23",
+      "name": "สหการช่าง",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "in-24",
+      "name": "ไพร์ม เอ็นจิเนียริ่ง",
+      "type": "internal",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-1",
+      "name": "คอนโทรลโรจิก",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-2",
+      "name": "เอ็นเวอร์เทค",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-3",
+      "name": "T.A.G",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-4",
+      "name": "M.A.C.S",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-5",
+      "name": "S.R.I.C",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-6",
+      "name": "AWS.",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-7",
+      "name": "เพอมาเทคเอเซีย",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-8",
+      "name": "NPP",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-9",
+      "name": "SYNERGY",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-10",
+      "name": "ไทยโพลิเมอร์",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-11",
+      "name": "พยัคฆ์",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-12",
+      "name": "WELL",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-13",
+      "name": "ณัฐนนท์",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-14",
+      "name": "NRK",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-15",
+      "name": "TECHNICAL",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-16",
+      "name": "Q&P",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-17",
+      "name": "SUMITOMO",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-18",
+      "name": "AGON",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-19",
+      "name": "T.VAS",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-20",
+      "name": "SCG Logistics",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    },
+    {
+      "id": "ex-21",
+      "name": "โปรเทคเทค",
+      "type": "external",
+      "totalAttendees": 0,
+      "isCustom": false
+    }
+  ],
+  "records": [
+    {
+      "id": "rec-1792812623434-uzjg",
+      "date": "2026-10-19",
+      "companyId": "in-3",
+      "companyName": "C.T.C",
+      "companyType": "internal",
+      "attendees": 24,
+      "targetWorkers": 24,
+      "totalAfter": 64,
+      "createdAt": "2026-10-24T03:30:23.434Z"
+    },
+    {
+      "id": "rec-1792812615445-7mf1",
+      "date": "2026-10-19",
+      "companyId": "in-12",
+      "companyName": "LIDA",
+      "companyType": "internal",
+      "attendees": 8,
+      "targetWorkers": 8,
+      "totalAfter": 8,
+      "createdAt": "2026-10-24T03:30:15.445Z"
+    },
+    {
+      "id": "rec-1792812610490-4ckb",
+      "date": "2026-10-19",
+      "companyId": "ex-3",
+      "companyName": "T.A.G",
+      "companyType": "external",
+      "attendees": 20,
+      "targetWorkers": 20,
+      "totalAfter": 53,
+      "createdAt": "2026-10-24T03:30:10.490Z"
+    },
+    {
+      "id": "rec-1792812599046-906z",
+      "date": "2026-10-19",
+      "companyId": "in-19",
+      "companyName": "ฐาปกรณ์",
+      "companyType": "internal",
+      "attendees": 6,
+      "targetWorkers": 6,
+      "totalAfter": 10,
+      "createdAt": "2026-10-24T03:29:59.046Z"
+    },
+    {
+      "id": "rec-1792812588210-ij03",
+      "date": "2026-10-19",
+      "companyId": "in-18",
+      "companyName": "Flowlab",
+      "companyType": "external",
+      "attendees": 5,
+      "targetWorkers": 5,
+      "totalAfter": 10,
+      "createdAt": "2026-10-24T03:29:48.210Z"
+    },
+    {
+      "id": "rec-1792812571347-qkhu",
+      "date": "2026-10-19",
+      "companyId": "ex-2",
+      "companyName": "เอ็นเวอร์เทค",
+      "companyType": "external",
+      "attendees": 18,
+      "targetWorkers": 18,
+      "totalAfter": 36,
+      "createdAt": "2026-10-24T03:29:31.347Z"
+    },
+    {
+      "id": "rec-1792812559492-gue0",
+      "date": "2026-10-19",
+      "companyId": "ex-1",
+      "companyName": "คอนโทรลโรจิก",
+      "companyType": "external",
+      "attendees": 5,
+      "targetWorkers": 5,
+      "totalAfter": 5,
+      "createdAt": "2026-10-24T03:29:19.492Z"
+    },
+    {
+      "id": "rec-1792812410064-ohc8",
+      "date": "2026-10-18",
+      "companyId": "ex-10",
+      "companyName": "ไทยโพลิเมอร์",
+      "companyType": "external",
+      "attendees": 10,
+      "targetWorkers": 10,
+      "totalAfter": 41,
+      "createdAt": "2026-10-24T03:26:50.064Z"
+    },
+    {
+      "id": "rec-1792812399627-upn6",
+      "date": "2026-10-18",
+      "companyId": "in-7",
+      "companyName": "SPI",
+      "companyType": "internal",
+      "attendees": 14,
+      "targetWorkers": 14,
+      "totalAfter": 44,
+      "createdAt": "2026-10-24T03:26:39.627Z"
+    },
+    {
+      "id": "rec-1792812393622-at6t",
+      "date": "2026-10-18",
+      "companyId": "ex-4",
+      "companyName": "M.A.C.S",
+      "companyType": "external",
+      "attendees": 19,
+      "targetWorkers": 19,
+      "totalAfter": 38,
+      "createdAt": "2026-10-24T03:26:33.622Z"
+    },
+    {
+      "id": "rec-1792812384743-gmsk",
+      "date": "2026-10-18",
+      "companyId": "ex-11",
+      "companyName": "พยัคฆ์",
+      "companyType": "external",
+      "attendees": 17,
+      "targetWorkers": 17,
+      "totalAfter": 34,
+      "createdAt": "2026-10-24T03:26:24.743Z"
+    },
+    {
+      "id": "rec-1792812370791-bht6",
+      "date": "2026-10-18",
+      "companyId": "in-20",
+      "companyName": "Lucky",
+      "companyType": "external",
+      "attendees": 7,
+      "targetWorkers": 7,
+      "totalAfter": 7,
+      "createdAt": "2026-10-24T03:26:10.791Z"
+    },
+    {
+      "id": "rec-1792812360632-dqr6",
+      "date": "2026-10-18",
+      "companyId": "in-15",
+      "companyName": "SM&SPS",
+      "companyType": "internal",
+      "attendees": 4,
+      "targetWorkers": 4,
+      "totalAfter": 12,
+      "createdAt": "2026-10-24T03:26:00.632Z"
+    },
+    {
+      "id": "rec-1792812354504-k10a",
+      "date": "2026-10-18",
+      "companyId": "in-4",
+      "companyName": "ขันติพิมพ์พงษ์",
+      "companyType": "internal",
+      "attendees": 15,
+      "targetWorkers": 15,
+      "totalAfter": 38,
+      "createdAt": "2026-10-24T03:25:54.504Z"
+    },
+    {
+      "id": "rec-1792812339823-kipj",
+      "date": "2026-10-18",
+      "companyId": "in-17",
+      "companyName": "กาญจนา",
+      "companyType": "internal",
+      "attendees": 8,
+      "targetWorkers": 8,
+      "totalAfter": 25,
+      "createdAt": "2026-10-24T03:25:39.823Z"
+    },
+    {
+      "id": "rec-1792812311610-1n80",
+      "date": "2026-10-18",
+      "companyId": "in-8",
+      "companyName": "จรูณสิงห์",
+      "companyType": "external",
+      "attendees": 50,
+      "targetWorkers": 50,
+      "totalAfter": 100,
+      "createdAt": "2026-10-24T03:25:11.610Z"
+    },
+    {
+      "id": "rec-1792812298691-9nfe",
+      "date": "2026-10-18",
+      "companyId": "ex-9",
+      "companyName": "SYNERGY",
+      "companyType": "external",
+      "attendees": 22,
+      "targetWorkers": 22,
+      "totalAfter": 22,
+      "createdAt": "2026-10-24T03:24:58.691Z"
+    },
+    {
+      "id": "rec-1792812291312-ulnc",
+      "date": "2026-10-18",
+      "companyId": "in-9",
+      "companyName": "เคนาย",
+      "companyType": "external",
+      "attendees": 22,
+      "targetWorkers": 22,
+      "totalAfter": 104,
+      "createdAt": "2026-10-24T03:24:51.312Z"
+    },
+    {
+      "id": "rec-1792812270498-cbf5",
+      "date": "2026-10-18",
+      "companyId": "ex-6",
+      "companyName": "AWS.",
+      "companyType": "external",
+      "attendees": 56,
+      "targetWorkers": 56,
+      "totalAfter": 176,
+      "createdAt": "2026-10-24T03:24:30.498Z"
+    },
+    {
+      "id": "rec-1792812257697-0nlh",
+      "date": "2026-10-18",
+      "companyId": "ex-3",
+      "companyName": "T.A.G",
+      "companyType": "external",
+      "attendees": 20,
+      "targetWorkers": 20,
+      "totalAfter": 33,
+      "createdAt": "2026-10-24T03:24:17.697Z"
+    },
+    {
+      "id": "rec-1792812247433-y2s6",
+      "date": "2026-10-18",
+      "companyId": "in-3",
+      "companyName": "C.T.C",
+      "companyType": "internal",
+      "attendees": 15,
+      "targetWorkers": 15,
+      "totalAfter": 40,
+      "createdAt": "2026-10-24T03:24:07.433Z"
+    },
+    {
+      "id": "rec-1792812239265-wrd5",
+      "date": "2026-10-18",
+      "companyId": "ex-2",
+      "companyName": "เอ็นเวอร์เทค",
+      "companyType": "external",
+      "attendees": 18,
+      "targetWorkers": 18,
+      "totalAfter": 18,
+      "createdAt": "2026-10-24T03:23:59.265Z"
+    },
+    {
+      "id": "rec-1792812219979-h5sc",
+      "date": "2026-10-18",
+      "companyId": "in-16",
+      "companyName": "Fluiv power",
+      "companyType": "external",
+      "attendees": 8,
+      "targetWorkers": 8,
+      "totalAfter": 8,
+      "createdAt": "2026-10-24T03:23:39.979Z"
+    },
+    {
+      "id": "rec-1792812165846-uaig",
+      "date": "2026-10-18",
+      "companyId": "in-21",
+      "companyName": "พลูโตเทค",
+      "companyType": "internal",
+      "attendees": 11,
+      "targetWorkers": 11,
+      "totalAfter": 22,
+      "createdAt": "2026-10-24T03:22:45.846Z"
+    },
+    {
+      "id": "rec-1792812153789-r8t2",
+      "date": "2026-10-18",
+      "companyId": "in-6",
+      "companyName": "ปัญจพล",
+      "companyType": "internal",
+      "attendees": 15,
+      "targetWorkers": 15,
+      "totalAfter": 23,
+      "createdAt": "2026-10-24T03:22:33.789Z"
+    },
+    {
+      "id": "rec-1792812135074-g5jy",
+      "date": "2026-10-18",
+      "companyId": "in-13",
+      "companyName": "ATT",
+      "companyType": "internal",
+      "attendees": 7,
+      "targetWorkers": 7,
+      "totalAfter": 15,
+      "createdAt": "2026-10-24T03:22:15.074Z"
+    },
+    {
+      "id": "rec-1792812072707-54ca",
+      "date": "2026-10-17",
+      "companyId": "ex-4",
+      "companyName": "M.A.C.S",
+      "companyType": "external",
+      "attendees": 19,
+      "targetWorkers": 19,
+      "totalAfter": 19,
+      "createdAt": "2026-10-24T03:21:12.707Z"
+    },
+    {
+      "id": "rec-1792812057078-tbqj",
+      "date": "2026-10-17",
+      "companyId": "ex-10",
+      "companyName": "ไทยโพลิเมอร์",
+      "companyType": "external",
+      "attendees": 31,
+      "targetWorkers": 31,
+      "totalAfter": 31,
+      "createdAt": "2026-10-24T03:20:57.078Z"
+    },
+    {
+      "id": "rec-1792812034521-8vu0",
+      "date": "2026-10-17",
+      "companyId": "ex-3",
+      "companyName": "T.A.G",
+      "companyType": "external",
+      "attendees": 13,
+      "targetWorkers": 13,
+      "totalAfter": 13,
+      "createdAt": "2026-10-24T03:20:34.521Z"
+    },
+    {
+      "id": "rec-1792811456045-bd5l",
+      "date": "2026-10-17",
+      "companyId": "in-7",
+      "companyName": "SPI",
+      "companyType": "internal",
+      "attendees": 30,
+      "targetWorkers": 30,
+      "totalAfter": 30,
+      "createdAt": "2026-10-24T03:10:56.045Z"
+    },
+    {
+      "id": "rec-1792811446916-r61t",
+      "date": "2026-10-17",
+      "companyId": "in-15",
+      "companyName": "SM&SPS",
+      "companyType": "internal",
+      "attendees": 8,
+      "targetWorkers": 8,
+      "totalAfter": 8,
+      "createdAt": "2026-10-24T03:10:46.916Z"
+    },
+    {
+      "id": "rec-1792811439151-76h5",
+      "date": "2026-10-17",
+      "companyId": "in-19",
+      "companyName": "ฐาปกรณ์",
+      "companyType": "internal",
+      "attendees": 4,
+      "targetWorkers": 4,
+      "totalAfter": 4,
+      "createdAt": "2026-10-24T03:10:39.151Z"
+    },
+    {
+      "id": "rec-1792811426412-shmu",
+      "date": "2026-10-17",
+      "companyId": "in-18",
+      "companyName": "Flowlab",
+      "companyType": "internal",
+      "attendees": 5,
+      "targetWorkers": 5,
+      "totalAfter": 5,
+      "createdAt": "2026-10-24T03:10:26.412Z"
+    },
+    {
+      "id": "rec-1792811418246-qa81",
+      "date": "2026-10-17",
+      "companyId": "in-13",
+      "companyName": "ATT",
+      "companyType": "internal",
+      "attendees": 8,
+      "targetWorkers": 8,
+      "totalAfter": 8,
+      "createdAt": "2026-10-24T03:10:18.246Z"
+    },
+    {
+      "id": "rec-1792811407192-jmct",
+      "date": "2026-10-17",
+      "companyId": "in-21",
+      "companyName": "พลูโตเทค",
+      "companyType": "internal",
+      "attendees": 11,
+      "targetWorkers": 11,
+      "totalAfter": 11,
+      "createdAt": "2026-10-24T03:10:07.192Z"
+    },
+    {
+      "id": "rec-1792811366051-wh7u",
+      "date": "2026-10-17",
+      "companyId": "ex-11",
+      "companyName": "พยัคฆ์",
+      "companyType": "external",
+      "attendees": 17,
+      "targetWorkers": 17,
+      "totalAfter": 17,
+      "createdAt": "2026-10-24T03:09:26.051Z"
+    },
+    {
+      "id": "rec-1792811345413-w5e0",
+      "date": "2026-10-17",
+      "companyId": "in-4",
+      "companyName": "ขันติพิมพ์พงษ์",
+      "companyType": "internal",
+      "attendees": 23,
+      "targetWorkers": 23,
+      "totalAfter": 23,
+      "createdAt": "2026-10-24T03:09:05.413Z"
+    },
+    {
+      "id": "rec-1792811316308-mgba",
+      "date": "2026-10-17",
+      "companyId": "in-8",
+      "companyName": "จรูณสิงห์",
+      "companyType": "internal",
+      "attendees": 50,
+      "targetWorkers": 50,
+      "totalAfter": 50,
+      "createdAt": "2026-10-24T03:08:36.308Z"
+    },
+    {
+      "id": "rec-1792811298612-p6n7",
+      "date": "2026-10-17",
+      "companyId": "in-14",
+      "companyName": "ดารุณี",
+      "companyType": "internal",
+      "attendees": 12,
+      "targetWorkers": 12,
+      "totalAfter": 12,
+      "createdAt": "2026-10-24T03:08:18.612Z"
+    },
+    {
+      "id": "rec-1792811285941-5zqw",
+      "date": "2026-10-17",
+      "companyId": "in-17",
+      "companyName": "กาญจนา",
+      "companyType": "internal",
+      "attendees": 17,
+      "targetWorkers": 17,
+      "totalAfter": 17,
+      "createdAt": "2026-10-24T03:08:05.941Z"
+    },
+    {
+      "id": "rec-1792811264366-qgk8",
+      "date": "2026-10-17",
+      "companyId": "in-5",
+      "companyName": "BCC",
+      "companyType": "internal",
+      "attendees": 20,
+      "targetWorkers": 20,
+      "totalAfter": 20,
+      "createdAt": "2026-10-24T03:07:44.366Z"
+    },
+    {
+      "id": "rec-1792811252768-mltd",
+      "date": "2026-10-17",
+      "companyId": "in-6",
+      "companyName": "ปัญจพล",
+      "companyType": "internal",
+      "attendees": 8,
+      "targetWorkers": 8,
+      "totalAfter": 8,
+      "createdAt": "2026-10-24T03:07:32.768Z"
+    },
+    {
+      "date": "2026-10-22",
+      "companyName": "บริษัท ไทยคอนแทรคเตอร์ แอนด์ เอ็นจิเนียริ่ง จำกัด",
+      "companyType": "internal",
+      "attendees": 25,
+      "safetyTopic": "การใช้อุปกรณ์ป้องกันการตก",
+      "supervisorName": "จป.วิชาชีพ PPPC",
+      "id": "rec-1792811038983-sqy0b"
+    },
+    {
+      "id": "rec-1792811010324-qbak",
+      "date": "2026-10-17",
+      "companyId": "in-3",
+      "companyName": "C.T.C",
+      "companyType": "internal",
+      "attendees": 25,
+      "targetWorkers": 25,
+      "totalAfter": 47,
+      "createdAt": "2026-10-24T03:03:30.324Z"
+    },
+    {
+      "id": "rec-1792811003354-bdla",
+      "date": "2026-10-17",
+      "companyId": "in-9",
+      "companyName": "เคนาย",
+      "companyType": "external",
+      "attendees": 52,
+      "targetWorkers": 31,
+      "totalAfter": 61,
+      "createdAt": "2026-10-24T03:03:23.354Z",
+      "safetyTopic": "KYT ตรวจสอบความปลอดภัย 4 ขั้นตอนก่อนเริ่มงาน (Zero Accident)"
+    },
+    {
+      "id": "rec-1792810984385-6glq",
+      "date": "2026-10-17",
+      "companyId": "ex-6",
+      "companyName": "AWS.",
+      "companyType": "external",
+      "attendees": 60,
+      "targetWorkers": 60,
+      "totalAfter": 120,
+      "createdAt": "2026-10-24T03:03:04.385Z"
+    },
+    {
+      "id": "rec-1792810934834-fwpt",
+      "date": "2026-10-17",
+      "companyId": "in-1",
+      "companyName": "WCE.",
+      "companyType": "internal",
+      "attendees": 20,
+      "targetWorkers": 20,
+      "totalAfter": 20,
+      "createdAt": "2026-10-24T03:02:14.834Z"
+    },
+    {
+      "id": "rec-1792809602842-bssh",
+      "date": "2026-10-16",
+      "companyId": "in-9",
+      "companyName": "เคนาย",
+      "companyType": "external",
+      "attendees": 30,
+      "targetWorkers": 60,
+      "totalAfter": 90,
+      "createdAt": "2026-10-24T03:00:16.415Z",
+      "safetyTopic": "KYT ตรวจสอบความปลอดภัย 4 ขั้นตอนก่อนเริ่มงาน (Zero Accident)"
+    },
+    {
+      "id": "rec-1792809642046-46tc",
+      "date": "2026-10-16",
+      "companyId": "ex-6",
+      "companyName": "AWS.",
+      "companyType": "external",
+      "attendees": 60,
+      "targetWorkers": 60,
+      "totalAfter": 100,
+      "createdAt": "2026-10-24T03:00:02.243Z"
+    }
+  ],
+  "incidents": [],
+  "selectedDate": "2026-10-21",
+  "summaryDateText": "21 ตุลาคม 2569",
+  "lockedDates": [
+    "2026-10-19"
+  ],
+  "unlockedDates": [
+    "2026-10-22"
+  ],
+  "currentOperatingDate": "2026-10-22",
+  "projectConfig": {
+    "projectName": "โครงการ PPPC Major Shutdown 2026",
+    "subTitle": "รายงานสรุปความปลอดภัยประจำวัน OHS",
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-31",
+    "operatingDate": "2026-10-22",
+    "location": "ขอนแก่น",
+    "isCustomRange": true
+  }
+}

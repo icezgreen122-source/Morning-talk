@@ -1,0 +1,6 @@
+{
+  "name": "PPPC Khon Kaen - Morning Talk Dashboard",
+  "description": "แดชบอร์ดสรุปผลการเข้าร่วมกิจกรรม Morning Talk โครงการ Major Shutdown PPPC ขอนแก่น 16–31 ตุลาคม 2026 (มาสเตอร์ลิสต์คู่ธุรกิจ 45 แห่ง)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
